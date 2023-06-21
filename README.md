@@ -56,10 +56,12 @@
 
 <h3 align="left">My Stats</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=louiedaliwan)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=louiedaliwan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=louiedaliwan&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=louiedaliwan&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
