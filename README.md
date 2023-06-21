@@ -43,7 +43,7 @@
 
 - 🤝 I’m looking for help with my career as a full-stack developer
 
-- 🌱 I’m currently learning frontend/backend development technologies
+- 🌱 I’m continually learning frontend/backend development technologies
 
 - 📫 How to reach me **louieangelodaliwan@gmail.com**
 
