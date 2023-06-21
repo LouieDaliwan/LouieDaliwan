@@ -54,6 +54,11 @@
 <a href="https://www.linkedin.com/in/louie-angelo-daliwan-b16817178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharhabeel-morad" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">My Stats</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=louiedaliwan)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **LouieDaliwan/LouieDaliwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
